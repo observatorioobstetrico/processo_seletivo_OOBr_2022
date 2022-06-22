@@ -1,0 +1,14 @@
+codigo;descrição
+paciente_id;Identificação da gestante ou puérpera
+dt_nasc;data de nascimento
+dt_aplic;data da aplicação da vacina Coronavac
+ano_aplic;ano da aplicação - todos 2021
+mes_aplic;mês da aplicação - mês 11 ou 12
+gest_puerp;se gestante ou puérpera
+idade_anos;idade da gestante ou puérpera em anos
+raca;raça da gestante ou puérpera
+resid_uf;UF de residência da gestante ou puérpera
+resid_muni;Município de residência da gestante ou puérpera
+num_dose;Número da dose
+aplic_uf;UF de aplicação da vacina
+aplicacao_muni;Município de aplicação da vacina
